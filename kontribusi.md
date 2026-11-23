@@ -30,9 +30,12 @@ Seluruh pengembangan dilakukan melalui alur cabang (*branch*) dan *fork* masing-
 * **PR #2 – Update kode dan hasil prediksi regresi dan klasifikasi (oleh `@zeezaayy`):**
   * Link: https://github.com/cheyzaamanda/UTS-ML-2026/pull/2
   * Ringkasan: Menambahkan implementasi kode regresi serta klasifikasi beserta keluaran prediksi (`prediksi_regresi.csv` dan `prediksi_klasifikasi.csv`).
-* **PR #3 – Finalisasi laporan PDF, skrip kode, hasil clustering, dan dokumentasi kontribusi (oleh `@zeezaayy`):**
+* **PR #3 – Finalisasi laporan PDF, skrip kode, hasil clustering, dan dokumentasi kontribusi (oleh `@zeezaayy`& `@cheyzaamanda`):**
   * Link: https://github.com/cheyzaamanda/UTS-ML-2026/pull/3
   * Ringkasan: Mengunggah `laporan.pdf`, merapikan seluruh skrip di folder `kode/` beserta `README.md`, menambahkan `cluster.csv`, serta menambahkan `kontribusi.md`.
+* **Commit langsung ke `main` (oleh `@cheyzaamanda`):**
+  * `cluster.csv`: keluaran clustering Task 3 untuk 120.000 pelanggan.
+  * `profil_segmen.csv`: ringkasan profil segmen hasil clustering.
 
 ---
 
